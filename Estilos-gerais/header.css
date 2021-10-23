@@ -1,0 +1,60 @@
+header{
+	background: #CAF0F8;
+	padding: 2em;
+}
+
+.preCabecalho{
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.left{
+	display: table;
+	width: 45%;
+	height: auto;
+}
+
+.nomeClinica{
+	font-weight: bold;
+	font-size: 50px;
+	color: #86929A;
+}
+
+.subTituloClinica{
+	text-transform: uppercase;
+	font-size: 30px;
+	color: #86929A;
+}
+
+.right{
+	display: table;
+	width: 45%;
+	height: auto;
+	float: right;
+}
+
+.right nav{
+	position: absolute;
+	top: 30px;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin: 0 1em;
+}
+
+nav a{
+	text-transform: uppercase;
+	font-size: 20px;
+	color: #86929A;
+	font-weight: bold;
+	text-decoration: none;
+	transition: 0.5s all;
+}
+
+nav a:hover{
+	text-decoration: underline;
+	color: #5CC6D0;
+}

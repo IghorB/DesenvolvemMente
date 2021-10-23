@@ -1,0 +1,45 @@
+footer{
+	height: 500px;
+	padding: 40px;
+	background: #5CC6D0;
+}
+
+.preRodape{
+	width: 1200px;
+	height: auto;
+	margin: 30px auto;
+}
+
+.right{
+	width: 45%;
+	height: auto;
+	display: table;
+	float: right;
+}
+
+.dadosFooter{
+	text-align: right;
+}
+
+.dadosFooter p{
+	margin: 1em 0;
+	font-size: 18px;
+	color: #FEFEFE;
+}
+
+
+.about em{
+	font-size: 18px;
+	font-style: italic;
+	color: #FEFEFE;
+}
+
+.instagram{
+	margin: 1em 2em 1em 0;
+	width: 10%;
+	transition: transform .2s;
+}
+
+.instagram hover {
+	transform: scale(1.2);
+}
