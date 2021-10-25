@@ -16,6 +16,11 @@ main{
 	color: #5CC6D0;
 }
 
+.espacoConvenio{
+	margin-bottom: 1em;
+	display: table;
+}
+
 .mapa{
 	margin: auto;
 	display: inline-block;
