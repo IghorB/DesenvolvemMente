@@ -1,9 +1,22 @@
 main{
 	background: #FEFEFE;
-	margin: 0 2em;
+	padding: 0 2em;
+}
+
+.corpo{
+	width: 1200px;
+	margin: auto;
+}
+
+.convênios{
+	margin: 1em 0;
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #5CC6D0;
 }
 
 .mapa{
-	width: 1200px;
 	margin: auto;
+	display: inline-block;
 }
