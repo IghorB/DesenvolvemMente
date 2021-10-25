@@ -34,12 +34,17 @@ footer{
 	color: #FEFEFE;
 }
 
-.instagram{
-	margin: 1em 2em 1em 0;
+.espacoFoto{
 	width: 10%;
-	transition: transform .2s;
+	float: right;
 }
 
-.instagram hover {
+.instagram{
+	margin: 1em 0;
+	width: 100%;
+	transition: 0.2s all;
+}
+
+.instagram:hover{
 	transform: scale(1.2);
 }
