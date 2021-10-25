@@ -51,10 +51,9 @@ nav a{
 	color: #86929A;
 	font-weight: bold;
 	text-decoration: none;
-	transition: 0.5s all;
+	transition: 0.2s all;
 }
 
 nav a:hover{
-	text-decoration: underline;
 	color: #5CC6D0;
 }
