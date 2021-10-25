@@ -17,8 +17,21 @@ main{
 }
 
 .espacoConvenio{
+	width: 100%;
 	margin-bottom: 1em;
-	display: table;
+}
+
+.conveniosLista{
+	font-size: 20px;
+	font-weight: bold;
+	border-style: none;
+	border-radius: 10px;
+	width: 20%;
+	background: #CAF0F8;
+	color: #86929A;
+	margin: 1em 2em;
+	padding: 1em 2em;
+	display: inline-block;
 }
 
 .mapa{
