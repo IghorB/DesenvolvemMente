@@ -21,6 +21,10 @@ main{
 	margin-bottom: 1em;
 }
 
+li{
+	display: inline-block;
+}
+
 .conveniosLista{
 	font-size: 20px;
 	font-weight: bold;
@@ -31,8 +35,9 @@ main{
 	color: #86929A;
 	margin: 1em 2em;
 	padding: 1em 2em;
-	display: inline-block;
+	transition: 0.5s all;
 }
+
 
 .mapa{
 	margin: auto;
