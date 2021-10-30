@@ -45,6 +45,19 @@ main{
 	transform: scale(1.2);
 }
 
+.areaContato{
+	width: 100%;
+}
+
+.contato-left{
+	display: inline-block;
+	width: 45%;
+}
+
+.contato-right{
+	display: inline-block;
+	width: 45%;
+}
 
 .mapa{
 	margin: auto;
