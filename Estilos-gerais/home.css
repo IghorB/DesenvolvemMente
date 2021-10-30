@@ -50,3 +50,37 @@ main{
 	margin: auto;
 	display: inline-block;
 }
+
+form label, form legend{
+	display: block;
+	font-size: 25px;
+	font-weight: bold;
+	color: #5CC6D0;
+	margin: 0 0 10px;
+}
+
+.input-escrito{
+	display: block;
+	width: 50%;
+	margin: 0 0 2em;
+	padding: 10px;
+}
+
+.enviar{
+	font-size: 20px;
+	font-weight: bold;
+	border-style: none;
+	border-radius: 10px;
+	width: 25%;
+	background: #CAF0F8;
+	color: #86929A;
+	margin: 0 0 2em 1.4em;
+	padding: 1em 0;
+	transition: 0.2s all;
+}
+
+.enviar:hover{
+	color: #FEFEFE;
+	background: #5CC6D0;
+	transform: scale(1.2);
+}
