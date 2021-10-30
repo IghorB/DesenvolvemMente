@@ -94,6 +94,18 @@ form label, form legend{
 	transform: scale(1.2);
 }
 
+.endereço{
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+.endereço em{
+	color: #5CC6D0;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 18px;
+}
+
 .mapa{
 	margin: 0 0 1em 1em;
 	display: inline-block;
