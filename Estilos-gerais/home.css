@@ -57,11 +57,7 @@ main{
 .contato-right{
 	display: inline-block;
 	width: 45%;
-}
-
-.mapa{
-	margin: auto;
-	display: inline-block;
+	padding-left: 3em;
 }
 
 form label, form legend{
@@ -74,7 +70,7 @@ form label, form legend{
 
 .input-escrito{
 	display: block;
-	width: 50%;
+	width: 95%;
 	margin: 0 0 2em;
 	padding: 10px;
 }
@@ -96,4 +92,9 @@ form label, form legend{
 	color: #FEFEFE;
 	background: #5CC6D0;
 	transform: scale(1.2);
+}
+
+.mapa{
+	margin: 0 0 1em 1em;
+	display: inline-block;
 }
