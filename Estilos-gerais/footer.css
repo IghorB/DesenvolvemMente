@@ -48,3 +48,7 @@ footer{
 .instagram:hover{
 	transform: scale(1.2);
 }
+
+.logoFooter{
+	width: 30%;
+}
