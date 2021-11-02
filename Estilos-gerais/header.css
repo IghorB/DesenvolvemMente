@@ -16,7 +16,7 @@ header{
 }
 
 .logoHeader{
-	width: 50%;
+	width: 40%;
 }
 
 .right{
@@ -28,7 +28,7 @@ header{
 
 .right nav{
 	position: absolute;
-	top: 30px;
+	top: 60px;
 	right: 0;
 }
 
