@@ -19,18 +19,6 @@ header{
 	width: 50%;
 }
 
-.nomeClinica{
-	font-weight: bold;
-	font-size: 50px;
-	color: #86929A;
-}
-
-.subTituloClinica{
-	text-transform: uppercase;
-	font-size: 30px;
-	color: #86929A;
-}
-
 .right{
 	display: table;
 	width: 45%;
