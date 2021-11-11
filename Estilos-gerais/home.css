@@ -8,10 +8,18 @@ main{
 	margin: auto;
 }
 
+.descricaoTitulo{
+	margin: 1em 0;
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #5CC6D0;
+}
+
 .descricaoImagem{
 	width: 50%;
 	margin: 1em 0;
-	float: left;
+	display: inline-block;
 }
 
 .conveniosTitulo{
