@@ -8,6 +8,12 @@ main{
 	margin: auto;
 }
 
+.descricaoImagem{
+	width: 50%;
+	margin: 1em 0;
+	float: left;
+}
+
 .conveniosTitulo{
 	margin: 1em 0;
 	font-size: 22px;
