@@ -22,6 +22,10 @@ main{
 	display: inline-block;
 }
 
+.descricaoTexto{
+	font-size: 1.2em;
+}
+
 .conveniosTitulo{
 	margin: 1em 0;
 	font-size: 22px;
