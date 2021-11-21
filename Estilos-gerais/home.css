@@ -67,6 +67,14 @@ main{
 	width: 100%;
 }
 
+.contatoTitulo{
+	margin: 1.5em 0;
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #5CC6D0;
+}
+
 .contato-left{
 	display: inline-block;
 	width: 45%;
@@ -115,6 +123,19 @@ form label, form legend{
 .endereço{
 	width: 100%;
 	margin-bottom: 1em;
+}
+
+.endereço a{
+	color: #5CC6D0;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.endereço strong{
+	color: #5CC6D0;
+	font-weight: bold;
+	font-size: 18px;
 }
 
 .endereço em{
